@@ -1,16 +1,25 @@
-### Hi there 👋
+<!-- Profile Header -->
+# Hello, I'm aleksgov! :)
 
-<!--
-**aleksgov/aleksgov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Description -->
+👋 Hi there! I'm a C++ enthusiast and developer. Here you'll find my projects and contact information.
 
-Here are some ideas to get you started:
+<!-- Get in Touch -->
+## 📫 Get in Touch
+- Telegram: [https://t.me/govorukhaa]
+- Email: [aleksandrgovo@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Stats -->
+## 📈 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksgov&show_icons=true)
+
+<!-- Top Languages Used -->
+## 📊 My Top Languages
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)
+
+<!-- Support -->
+## ❤️ Support Me
+If you like my projects and content, you can support me by:
+
+- ☕ Buying me a coffee.
+- 🌟 Starring my repositories
