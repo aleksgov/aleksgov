@@ -15,7 +15,7 @@
 
 <!-- Top Languages Used -->
 ## 📊 My Top Languages
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksgov&layout=compact)
 
 <!-- Support -->
 ## ❤️ Support Me
