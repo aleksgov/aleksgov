@@ -2,7 +2,7 @@
 # Hello, I'm aleksgov! :)
 
 <!-- Profile Description -->
-👋 Hi there! I'm a C++ enthusiast and developer. Here you'll find my projects and contact information.
+👋 Hi there! I'm a C++/Java/Python enthusiast and developer. Here you'll find my projects and contact information.
 
 <!-- Get in Touch -->
 ## 📫 Get in Touch
