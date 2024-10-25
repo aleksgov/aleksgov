@@ -15,10 +15,3 @@
 <!-- Top Languages Used -->
 ## 📊 My Top Languages
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksgov&layout=compact)
-
-<!-- Support -->
-## ❤️ Support Me
-If you like my projects and content, you can support me by:
-
-- ☕ Buying me a coffee.
-- 🌟 Starring my repositories
