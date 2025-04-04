@@ -1,17 +1,24 @@
-<!-- Profile Header -->
-# Hello, I'm aleksgov! :)
+# Hello, I'm aleksgov 👋
 
-<!-- Profile Description -->
-👋 Hi there! I'm a /Java/C++/Python enthusiast and developer. Here you'll find my projects and contact information.
+## React Developer & Frontend Enthusiast
 
-<!-- Get in Touch -->
-## 📫 Get in Touch
-- Email: [aleksandrgovo@gmail.com]
+<p align="left">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lvdnN0ZGYwaTNhZ3Q0NDE5NTJtYzE1aTRzaG51Zm93M3hpY3E3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="React Developer Banner" width="200">
+</p>
 
-<!-- GitHub Stats -->
-## 📈 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksgov&show_icons=true)
+### About Me
 
-<!-- Top Languages Used -->
-## 📊 My Top Languages
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksgov&layout=compact)
+I create modern web applications using **React** and cutting-edge JavaScript technologies. I strive for a perfect blend of functionality, responsive design, and creative solutions that make my projects stand out.
+
+### My Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+
+### Get In Touch
+
+[📧 Email Me](mailto:aleksandrgovo@gmail.com)
